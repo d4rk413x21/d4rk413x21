@@ -8,7 +8,7 @@
 
 ---
 
-## 📚 What I’m Learning
+### 📚 What I’m Learning
 
 * Event-driven architectures and message brokers (Kafka, NATS)
 * Machine Learning with Python
@@ -16,7 +16,8 @@
 
 ---
 
-## 🛠️ I code with
+### 🛠️ I code with
+
 <a href="https://www.typescriptlang.org" target="_blank">
 <img align="left title="Typescript" alt="Typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </a>
